@@ -3,7 +3,7 @@ ML projects at Tsifrotech company
 
 ---
 
-# Tsifrotech AI & ML Projects
+# Tsifrotech AI & ML Projects (IN ENGLISH)
 
 Welcome to the Tsifrotech AI and Machine Learning repository! This collection showcases innovative projects and research initiatives aimed at leveraging artificial intelligence and machine learning technologies to solve real-world problems.
 
@@ -42,12 +42,8 @@ For further inquiries or collaboration opportunities, please contact us at [cont
 ---
 
 
-# -1-TheFounder-Tsifrotech-ML-Projects
-Проекты ML в компании Tsifrotech
 
----
-
-# Проекты AI и ML от Tsifrotech
+# Проекты AI и ML от Tsifrotech (НА РУССКОМ)
 
 Добро пожаловать в репозиторий AI и машинного обучения Tsifrotech! Эта коллекция демонстрирует инновационные проекты и исследовательские инициативы, направленные на использование технологий искусственного интеллекта и машинного обучения для решения реальных проблем.
 
