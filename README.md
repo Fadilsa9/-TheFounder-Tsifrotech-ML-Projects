@@ -35,7 +35,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Connect with Us
 
-For further inquiries or collaboration opportunities, please contact us at [contact@tsifrotech.com](mailto:contact@tsifrotech.com).
+For further inquiries or collaboration opportunities, please contact us using this [contact information]([mailto:contact@tsifrotech.com](https://цифровой-резерв.рф/)).
 
 
 ---
@@ -75,4 +75,4 @@ git clone https://github.com/Tsifrotech/AI-ML-Projects.git
 
 ## Свяжитесь с нами
 
-Для дальнейших запросов или возможностей сотрудничества, пожалуйста, свяжитесь с нами по адресу [contact@tsifrotech.com](mailto:contact@tsifrotech.com).
+Для дальнейших запросов или возможностей сотрудничества, пожалуйста, свяжитесь с нами по этой [контактной информации]([mailto:contact@tsifrotech.com](https://цифровой-резерв.рф/)).
