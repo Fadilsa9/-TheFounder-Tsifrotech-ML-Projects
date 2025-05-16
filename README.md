@@ -1,5 +1,6 @@
 # -1-TheFounder-Tsifrotech-ML-Projects
 ML projects at Tsifrotech company
+Проекты ML в компании Tsifrotech
 
 ---
 
