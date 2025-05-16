@@ -40,7 +40,7 @@ For further inquiries or collaboration opportunities, please contact us at [cont
 
 ---
 ---
-إليك الترجمة الدقيقة إلى الروسية:
+
 
 # -1-TheFounder-Tsifrotech-ML-Projects
 Проекты ML в компании Tsifrotech
